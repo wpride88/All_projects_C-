@@ -1,0 +1,5 @@
+C:\MYDOC\Visual Studio 2008\Projects\Midtermscores\Midtermscores\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOC\Visual Studio 2008\Projects\Midtermscores\Midtermscores\bin\Debug\Midtermscores.exe
+C:\MYDOC\Visual Studio 2008\Projects\Midtermscores\Midtermscores\bin\Debug\Midtermscores.pdb
+C:\MYDOC\Visual Studio 2008\Projects\Midtermscores\Midtermscores\obj\Debug\Midtermscores.exe
+C:\MYDOC\Visual Studio 2008\Projects\Midtermscores\Midtermscores\obj\Debug\Midtermscores.pdb

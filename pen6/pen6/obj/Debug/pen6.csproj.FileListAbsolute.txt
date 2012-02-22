@@ -1,0 +1,8 @@
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\pen6.Form1.resources
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\pen6.Properties.Resources.resources
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\pen6.csproj.GenerateResource.Cache
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\bin\Debug\pen6.exe
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\bin\Debug\pen6.pdb
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\pen6.exe
+C:\MYDOC\Visual Studio 2008\Projects\pen6\pen6\obj\Debug\pen6.pdb

@@ -1,0 +1,8 @@
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\bin\Debug\ImgProcessing.exe
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\bin\Debug\ImgProcessing.pdb
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ImgProcessing.Properties.Resources.resources
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ImgProcessing.csproj.GenerateResource.Cache
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ImgProcessing.exe
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ImgProcessing.pdb
+C:\MYDOC\Visual Studio 2008\Projects\ImgProcessing\ImgProcessing\obj\Debug\ImgProcessing.ImageMirror.resources

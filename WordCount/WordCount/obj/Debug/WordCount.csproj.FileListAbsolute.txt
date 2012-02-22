@@ -1,0 +1,5 @@
+C:\MYDOC\Visual Studio 2008\Projects\WordCount\WordCount\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOC\Visual Studio 2008\Projects\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\MYDOC\Visual Studio 2008\Projects\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\MYDOC\Visual Studio 2008\Projects\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\MYDOC\Visual Studio 2008\Projects\WordCount\WordCount\obj\Debug\WordCount.pdb

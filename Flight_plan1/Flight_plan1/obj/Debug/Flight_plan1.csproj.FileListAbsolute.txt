@@ -1,0 +1,5 @@
+C:\MYDOC\Visual Studio 2008\Projects\Flight_plan1\Flight_plan1\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOC\Visual Studio 2008\Projects\Flight_plan1\Flight_plan1\bin\Debug\Flight_plan1.exe
+C:\MYDOC\Visual Studio 2008\Projects\Flight_plan1\Flight_plan1\bin\Debug\Flight_plan1.pdb
+C:\MYDOC\Visual Studio 2008\Projects\Flight_plan1\Flight_plan1\obj\Debug\Flight_plan1.exe
+C:\MYDOC\Visual Studio 2008\Projects\Flight_plan1\Flight_plan1\obj\Debug\Flight_plan1.pdb
