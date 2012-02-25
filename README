@@ -1,15 +1,15 @@
 Repo contains 7 projects written on C#
 
-- Flight plan (create route plan of flying)
-- ImageProccessing (Rotate Image on Mirror). Image must be in c:\.
+- Flight plan (create route plan of flying, read from file flights.txt). File must be in c:\
+- ImageProccessing (Rotate Image on Mirror). Image  Image1.JPG must be in c:\.
 - Midtermscores (Sort scores on ranges with step 10) and writting
-a diagram of count scores.). File must be in c:\
+a diagram of count scores.). File Midtermscores.txt must be in c:\
 - Pen6 (create a labeled boxes which may move on form, delete boxes and 
 clear all boxes). Windows Forms Application.
 - UniNames (read from console more names, write on screen unique names
 and write a count names, which entered by user) . 2 tasks in one application.
 - WordCount (read from file a each text and write on screen count of lines,
-words and chars for given text). File must be in c:\
+words and chars for given text). File lear.txt must be in c:\
 
 Created on Visual Studio 2008,
 Lang. C#
